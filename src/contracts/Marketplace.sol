@@ -22,7 +22,7 @@ contract Marketplace{
         address payable owner,
         bool purchased
     );
-
+///comments are here///
     event ProductPurchased(
     uint id,
     string name,
